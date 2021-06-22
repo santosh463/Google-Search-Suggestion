@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-top: 8px;
+}
+
+.heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.arrow-image {
+  color: #64748b;
+  width: 20px;
+  cursor: pointer;
+  outline: none;
+}
+
+.arrow-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
